@@ -36,3 +36,19 @@ Projet réalisé dans le cadre de mon **AEC en Programmation et développement W
 **Houda Faid**
 
 Junior Web & Mobile Developer
+## 📱 Aperçu de l'application
+
+### 🔐 Connexion et inscription
+![Connexion](screenshots/Screenshot%202026-07-27%20221426.jpg)
+
+### 🏠 Tableau de bord
+![Tableau de bord](screenshots/Screenshot%202026-07-27%20222558.jpg)
+
+### 👥 Gestion des clients
+![Clients](screenshots/Screenshot%202026-07-27%20222221.jpg)
+
+### 🧾 Gestion des factures
+![Factures](screenshots/Screenshot%202026-07-27%20221635.jpg)
+
+### ➕ Création d'une facture
+![Nouvelle facture](screenshots/Screenshot%202026-07-27%20221355.jpg)
