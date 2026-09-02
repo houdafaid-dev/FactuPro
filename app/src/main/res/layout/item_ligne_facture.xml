@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="8dp">
+
+    <EditText
+        android:id="@+id/etDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="Description"
+        android:textSize="14sp"
+        android:background="#F0F4F8"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/etQuantite"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:hint="Qté"
+        android:text="1"
+        android:inputType="number"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:background="#F0F4F8"
+        android:padding="10dp"
+        android:layout_marginStart="6dp" />
+
+    <EditText
+        android:id="@+id/etPrix"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:hint="Prix $"
+        android:inputType="numberDecimal"
+        android:textSize="14sp"
+        android:gravity="end"
+        android:background="#F0F4F8"
+        android:padding="10dp"
+        android:layout_marginStart="6dp" />
+
+    <TextView
+        android:id="@+id/btnSupprimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="✕"
+        android:textColor="#F44336"
+        android:textSize="18sp"
+        android:padding="8dp" />
+</LinearLayout>
